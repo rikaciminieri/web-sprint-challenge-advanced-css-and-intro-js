@@ -219,6 +219,12 @@ button:hover {
         display: flex;
         background-size: auto;
     }
+    .title-container div {
+        width: 100%;
+    }
+    .title-container hr {
+        width: 100%;
+    }
     h1 {
         font-size: 4rem;
     }
